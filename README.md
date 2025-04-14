@@ -1,4 +1,4 @@
-# Empowering Women: Re-Entry into the Canadian Labour Force 🇨🇦
+# Empowering Women: Re-Entry into the Canadian Labour Force
 
 ![Stackless Banner](https://img.shields.io/badge/Team-STACKLESS-blueviolet)
 ![License](https://img.shields.io/badge/license-MIT-green)
