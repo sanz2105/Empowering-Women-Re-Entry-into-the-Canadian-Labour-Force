@@ -93,12 +93,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/yourusername/empowering-women-labourforce.git
-cd empowering-women-labourforce
-pip install -r requirements.txt
-python sunburst_chart.py
-
 
