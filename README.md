@@ -72,14 +72,6 @@ Key visual insights include:
 
 ---
 
-## 📸 Sample Visuals
-
-<p align="center">
-  <img src="plots/sunburst_chart.png" width="400"/>
-  <img src="plots/education_vs_hours_vs_wage.png" width="400"/>
-</p>
-
----
 
 ## 📢 Team STACKLESS
 
